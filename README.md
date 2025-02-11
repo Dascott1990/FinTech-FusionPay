@@ -64,7 +64,6 @@ Want to improve this project? Open an **Issue** or **Pull Request** on GitHub! �
 This project is **MIT Licensed** – feel free to **use and modify it.**
 
 ## 📬 Contact
-- 📧 **Email:** hello.sapiova@gmail.com 
 - 🐦 **Twitter:** _dascott
 - 🚀 **Github:** Dascott1990
 
