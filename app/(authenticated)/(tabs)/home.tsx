@@ -30,7 +30,7 @@ const Page = () => {
       <View style={styles.account}>
         <View style={styles.row}>
           <Text style={styles.balance}>{balance()}</Text>
-          <Text style={styles.currency}>€</Text>
+          <Text style={styles.currency}>₦</Text>
         </View>
         <TouchableOpacity
           style={[
@@ -71,7 +71,7 @@ const Page = () => {
                 {transaction.date.toLocaleString()}
               </Text>
             </View>
-            <Text>{transaction.amount}€</Text>
+            <Text>{transaction.amount}₦</Text>
           </View>
         ))}
       </View>

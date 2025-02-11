@@ -45,12 +45,14 @@ const Page = () => {
           Enter your phone number. We will send you a confirmation code there
         </Text>
         <View style={styles.inputContainer}>
-          <TextInput
-            style={styles.input}
-            placeholder="Country code"
-            placeholderTextColor={Colors.gray}
-            value={countryCode}
-          />
+        <TextInput
+  style={styles.input}
+  placeholder="Country code"
+  placeholderTextColor={Colors.gray}
+  value={countryCode}
+  onChangeText={setCountryCode}  // ✅ Allow users to update the country code
+/>
+
           <TextInput
             style={[styles.input, { flex: 1 }]}
             placeholder="Mobile number"
