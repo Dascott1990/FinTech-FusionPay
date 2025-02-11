@@ -53,13 +53,8 @@ A modern FinTech mobile app built with **React Native, Expo, and Clerk**, design
 - **APIs:** CoinMarketCap API (for live crypto prices)  
 - **UI/UX:** Styled Components, NativeBase  
 
----
 
-## 🚀 Installation & Setup
 
-### 1️⃣ **Clone the repository**  
-```sh
-git clone https://github.com/Dascott1990/FinTech-FusionPay.git
 
 
 ## 🤝 Contributing
@@ -75,3 +70,10 @@ This project is **MIT Licensed** – feel free to **use and modify it.**
 
 ## 🌟 Star this repo if you like it! 🚀🔥
 
+---
+
+## 🚀 Installation & Setup
+
+### 1️⃣ **Clone the repository**  
+```sh
+git clone https://github.com/Dascott1990/FinTech-FusionPay.git
