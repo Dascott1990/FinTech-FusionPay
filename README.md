@@ -60,3 +60,18 @@ A modern FinTech mobile app built with **React Native, Expo, and Clerk**, design
 ### 1️⃣ **Clone the repository**  
 ```sh
 git clone https://github.com/Dascott1990/FinTech-FusionPay.git
+
+
+## 🤝 Contributing
+Want to improve this project? Open an **Issue** or **Pull Request** on GitHub! 🚀
+
+## 📜 License
+This project is **MIT Licensed** – feel free to **use and modify it.**
+
+## 📬 Contact
+📧 **Email**: your-email@example.com
+🐦 **Twitter**: @yourhandle
+🚀 **GitHub**: Dascott1990
+
+## 🌟 Star this repo if you like it! 🚀🔥
+
