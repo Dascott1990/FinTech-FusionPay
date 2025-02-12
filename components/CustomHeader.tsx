@@ -31,7 +31,7 @@ const CustomHeader = () => {
               justifyContent: 'center',
               alignItems: 'center',
             }}>
-            <Text style={{ color: '#fff', fontWeight: '500', fontSize: 16 }}>SG</Text>
+            <Text style={{ color: '#fff', fontWeight: '500', fontSize: 16 }}>TR</Text>
           </TouchableOpacity>
         </Link>
         <View style={styles.searchSection}>
